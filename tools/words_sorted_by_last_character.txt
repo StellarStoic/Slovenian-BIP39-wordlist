@@ -1,0 +1,220 @@
+Suffix: ajnost
+  tajnost
+  vztrajnost
+
+Suffix: akcija
+  akcija
+  reakcija
+
+Suffix: ališče
+  gledališče
+  letališče
+
+Suffix: alnica
+  gugalnica
+  opazovalnica
+  spalnica
+  čakalnica
+
+Suffix: arnica
+  drvarnica
+  šmarnica
+  žarnica
+
+Suffix: arnost
+  nevarnost
+  varnost
+
+Suffix: astika
+  elastika
+  gimnastika
+  plastika
+
+Suffix: ciklon
+  anticiklon
+  ciklon
+
+Suffix: demija
+  akademija
+  epidemija
+
+Suffix: dilnik
+  hladilnik
+  štedilnik
+
+Suffix: ednost
+  radovednost
+  vrednost
+
+Suffix: ekarna
+  lekarna
+  pekarna
+
+Suffix: ekcija
+  infekcija
+  injekcija
+  inšpekcija
+
+Suffix: enjava
+  menjava
+  zelenjava
+
+Suffix: ergija
+  alergija
+  energija
+
+Suffix: estilo
+  nadomestilo
+  obvestilo
+
+Suffix: fuzija
+  fuzija
+  infuzija
+
+Suffix: gacija
+  homologacija
+  navigacija
+
+Suffix: iatlon
+  biatlon
+  triatlon
+
+Suffix: ilnica
+  jedilnica
+  milnica
+  voščilnica
+
+Suffix: ivetje
+  doživetje
+  preživetje
+
+Suffix: ičnica
+  vtičnica
+  žičnica
+
+Suffix: kacija
+  lokacija
+  markacija
+
+Suffix: kalnik
+  likalnik
+  tiskalnik
+
+Suffix: kemija
+  kemija
+  levkemija
+
+Suffix: lacija
+  deflacija
+  inflacija
+  izolacija
+  manipulacija
+
+Suffix: lavnik
+  glavnik
+  vzglavnik
+
+Suffix: ljenje
+  dovoljenje
+  življenje
+
+Suffix: ljstvo
+  prijateljstvo
+  zadovoljstvo
+
+Suffix: logija
+  ekologija
+  ideologija
+  tehnologija
+
+Suffix: lucija
+  evolucija
+  revolucija
+
+Suffix: luzija
+  iluzija
+  žaluzija
+
+Suffix: matika
+  matematika
+  pnevmatika
+
+Suffix: misija
+  komisija
+  misija
+
+Suffix: mrežje
+  medmrežje
+  omrežje
+
+Suffix: nacija
+  halucinacija
+  impregnacija
+
+Suffix: nčnost
+  natančnost
+  neskončnost
+
+Suffix: ogovor
+  dogovor
+  pogovor
+
+Suffix: ornica
+  podmornica
+  zapornica
+
+Suffix: osfera
+  atmosfera
+  ionosfera
+
+Suffix: ožnost
+  možnost
+  priložnost
+
+Suffix: patija
+  empatija
+  simpatija
+
+Suffix: racija
+  dekoracija
+  generacija
+  ilustracija
+  inspiracija
+  operacija
+  restavracija
+
+Suffix: ralnik
+  nabiralnik
+  požiralnik
+
+Suffix: ratnik
+  ovratnik
+  povratnik
+
+Suffix: rožnik
+  krožnik
+  rožnik
+
+Suffix: sistem
+  ekosistem
+  sistem
+
+Suffix: tacija
+  akontacija
+  gravitacija
+  orientacija
+  pistacija
+  vegetacija
+
+Suffix: upanje
+  upanje
+  zaupanje
+
+Suffix: zacija
+  civilizacija
+  kanalizacija
+
+Suffix: znanje
+  spoznanje
+  znanje
+
