@@ -66,13 +66,14 @@ master/bip-0039).
 
 ## Why This Wordlist?
 
-I created this wordlist in my native language out of curiosity while developing my own mnemonic generation and recovery tool in Python, called [BIP39_exotica](https://github.com/BIP39_exotica). This tool allows you to generate Bitcoin wallets and Nostr keys using any wordlist you can imagine, including this Slovenian wordlist and even colors. Yup you read that right. Colors.
+I created this wordlist in my native language out of curiosity while developing my own mnemonic generation and recovery tool in Python, called [BIP39_exotica](https://github.com/StellarStoic/BIP39_Exotica). This tool allows you to generate Bitcoin wallets and Nostr keys using any wordlist you can imagine, including this Slovenian wordlist and even colors. Yup you read that right. Colors.
 
 ## Using this wordlist
 
-With the tools provided in the [BIP39_exotica](https://github.com/BIP39_exotica) repository, you can:
+With the tools provided in the [BIP39_exotica](https://github.com/StellarStoic/BIP39_Exotica) repository, you can:
 
 - Generate Bitcoin wallets using this Slovenian wordlist.
+- Creating Nostr keys
 - Recover those wallets using the same wordlist, ensuring compatibility and accessibility in your native language.
 
 I highly recommend not to modify this wordlist any further to avoid any confusion in the future if the world decide to switch to the Bitcoin standard and they start massively incorporating all the languages in the BIP39 ⋆⭒˚.⋆🪐 ⋆⭒˚.⋆ Pleb can dream right!
