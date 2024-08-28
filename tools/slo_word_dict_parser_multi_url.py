@@ -98,7 +98,7 @@ USER_AGENTS = [
 slovarji = {
         'SSKJ2': '133',  # Slovar slovenskega knjižnega jezika 2
         # 'eSSKJ': '201',  # eSSKJ - Slovar slovenskega knjižnega jezika
-        'Sinonimni': '208',  # Sinonimni slovar slovenskega jezika
+        # 'Sinonimni': '208',  # Sinonimni slovar slovenskega jezika
         # 'Pravopis': '134',  # Slovenski pravopis
         # 'ePravopis': '135',  # ePravopis - Slovenski pravopis
         # 'Sprotni': '132',  # Sprotni slovar slovenskega jezika
@@ -114,7 +114,7 @@ WORD_LIST_FILE = 'slovenian.txt'
 JSON_OUTPUT_FILE = 'tools/SLO_BIP39_word_definitions_and_synonyms.json'
 
 # Flag to control whether to resume from the last point or start over
-resume_from_last_point = False
+resume_from_last_point = True
 
 # Function to initialize the WebDriver in headless mode with a random user-agent
 def init_driver():

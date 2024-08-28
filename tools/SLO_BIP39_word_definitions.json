@@ -23905,19 +23905,8 @@
             }
         ]
     },
-    "žongler": {
-        "index": 2041,
-        "number_of_results": 1,
-        "results": [
-            {
-                "dictionary": "SSKJ²",
-                "word": "žonglêr",
-                "meaning": "žonglêr -ja m ( ȇ ) 1. kdor zna z izredno spretnostjo istočasno metati v zrak navadno več predmetov in jih loviti: nastop znanega žonglerja s kiji, krožniki ; igra se z ljudmi kakor žongler z žogami ; pren. besedni žongler 2. lit., v francoskem okolju, v srednjem veku pevec, igralec in akrobat, ki nastopa po sejmih, plemiških dvorcih: potujoči pevci in žonglerji"
-            }
-        ]
-    },
     "žreb": {
-        "index": 2042,
+        "index": 2041,
         "number_of_results": 1,
         "results": [
             {
@@ -23928,13 +23917,25 @@
         ]
     },
     "žulj": {
-        "index": 2043,
+        "index": 2042,
         "number_of_results": 1,
         "results": [
             {
                 "dictionary": "SSKJ²",
                 "word": "žúlj",
                 "meaning": "žúlj -a m ( ū ) mehur, ki nastane na koži zaradi pritiskanja, drgnjenja, zlasti na rokah, nogah: na dlaneh so se mu naredili žulji ; žulj je počil, se predrl ; dobiti, imeti žulje ; krvav, mehek, voden žulj ; žulj na peti // kožna zadebelina na dlaneh, ki nastane na utrjeni koži zlasti pri fizičnem delu: od žuljev raskave roke / pri grabljenju, veslanju dobiti trde žulje ● ekspr. od samega sedenja bo dobil žulje na zadnjici zelo je len ; ekspr. živeti od tujih žuljev od tujega dela ; ekspr. svoj kruh si služi s krvavimi žulji s trdim delom ♦ bot. španski žulj bodeča rastlina z razraslim steblom in zlato rumenimi cveti v koških, Scolymus hispanicus"
+            }
+        ]
+    },
+    "žur": {
+        "index": 2043,
+        "number_of_results": 1,
+        "number_of_dictionaries": 1,
+        "results": [
+            {
+                "dictionary": "SSKJ²",
+                "word": "žúr",
+                "meaning": "žúr -a m ( ȗ ) pog. 1. družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom; zabava : prirediti žur ; iti, povabiti na žur ; dober, mega žur / študentski žur ; organizacija domačega žura domače zabave 2. dogajanje, pri katerem se udeleženci zabavajo: večja kot je dvorana, v kateri didžej nastopa, večji je žur na plesišču ; pravi žur / ekspr. ko je direktor ugotovil, kaj se je zgodilo, se je začel žur"
             }
         ]
     },

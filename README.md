@@ -43,11 +43,11 @@ The Slovenian language, unlike English, offers a more limited range of options, 
 
 *Word length distribution:*
 
-- 3-letter words = 6.93% = 142 words
+- 3-letter words = 6.98% = 143 words
 - 4-letter words = 14.11% = 289 words
 - 5-letter words = 22.90% = 469 words
 - 6-letter words = 21.34% = 437 words
-- 7-letter words = 16.16% = 331 words
+- 7-letter words = 16.11% = 330 words
 - 8-letter words = 9.08% = 186 words
 - 9-letter words = 5.18% = 106 words
 - 10-letter words = 2.78% = 57 words
@@ -82,7 +82,7 @@ I highly recommend not to modify this wordlist any further to avoid any confusio
 
 The hash of this original slovenian.txt wordlist is 
 
-*dee8744a4faec765fd483695e3de9005fca29f0cdcf328ba0c9cce3a29e86056* 
+*a6bf75472276892bbad530c61b321324cf7e3705e7300a8e903c16c48750f4c1* 
 
 While you can verify this hash using any standard hashing tool, to make your life easier, I've created a Python script called `wordlist_HASH_checker.py`. This script is included in the repository and allows you to easily check the authenticity of the original slovenian wordlist file.
 

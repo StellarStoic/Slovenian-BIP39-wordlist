@@ -96,7 +96,7 @@ USER_AGENTS = [
 ]
 
 # File paths
-WORD_LIST_FILE = 'Wslovenian.txt'
+WORD_LIST_FILE = 'slovenian.txt'
 JSON_OUTPUT_FILE = 'tools/SLO_BIP39_word_definitions_from_all_dictionaries.json'
 
 # URL of the dictionaries website
@@ -293,4 +293,4 @@ for index, word in enumerate(word_list[start_index:], start=start_index):
     # Random delay between requests to avoid detection
     human_like_delay(min_delay=3, max_delay=10)
 
-print("Scraping completed and saved to 'word_definitions.json'.")
+print("Scraping completed and saved to json file.")
